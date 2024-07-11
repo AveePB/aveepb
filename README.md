@@ -1,16 +1,15 @@
-## Hi there 👋
+## AveePB
+👋 Hi there! I'm AveePB, a passionate programmer with experience in Python, C, C++, and Java. Coding has been my hobby since 2020, and I've worked on numerous projects, including those using Arduino. My goal is to become a machine learning engineer.
 
-<!--
-**AveePB/aveepb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 👨‍💻 **Experience**: Coding since 2020
+- 💻 **Skills**: Python, C, C++, Java
+- 🔧 **Projects**: Created various projects using multiple libraries and Arduino
+- 🏋️‍♂️ **Hobbies**: I enjoy hitting the gym and taking care of myself.
+- 🚀 **Goal**: Aspiring to become a machine learning engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Languages**: Python, C, C++, Java
+- **Libraries and Frameworks**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Arduino
+- **Tools**: Git, Jupyter Notebook
+- **Areas of Interest**: Machine Learning, Embedded Systems, Software Development
