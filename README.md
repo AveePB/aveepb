@@ -1,5 +1,5 @@
 ## AveePB
-👋 Hi there! I'm AveePB, a passionate programmer with experience in Python, C, C++, and Java. Coding has been my hobby since 2020, and I've worked on numerous projects, including those using Arduino. My goal is to become a machine learning engineer
+👋 Hi there! I'm AveePB, a programmer with experience in Python, C, C++, and Java. Coding has been my hobby since 2020, and I've worked on numerous projects, including those using Arduino. My goal is to become a machine learning engineer
 
 ### About Me
 - 👨‍💻 **Experience**: Coding since 2020
