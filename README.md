@@ -12,4 +12,4 @@
 - **Languages**: Python, C, C++, Java
 - **Libraries and Frameworks**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Arduino
 - **Tools**: Git, Jupyter Notebook
-- **Areas of Interest**: Machine Learning, Embedded Systems, Software Development
+- **Areas of Interest**: Machine Learning, Embedded Systems, Software Development 
