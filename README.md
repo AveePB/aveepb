@@ -10,6 +10,6 @@
 
 ### Skills
 - **Languages**: Python, C, C++, Java
-- **Libraries and Frameworks**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Arduino
+- **Libraries and Frameworks**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Arduino, Spring, Flask
 - **Tools**: Git, Jupyter Notebook
 - **Areas of Interest**: Machine Learning, Embedded Systems, Software Development 
